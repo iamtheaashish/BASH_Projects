@@ -25,34 +25,20 @@ I regularly use a file on my desktop (`Prompt.txt`) to store useful prompts gene
 - Systemd Unit: `~/.config/systemd/user/auto_upload.service`
 
 ## 📷 Screenshots
-[url=https://postimg.cc/bdv23G09][img]https://i.postimg.cc/bdv23G09/a.png[/img][/url]
-
-[url=https://postimg.cc/rzYRb8QX][img]https://i.postimg.cc/rzYRb8QX/b.png[/img][/url]
-
-[url=https://postimg.cc/zVsbz0sx][img]https://i.postimg.cc/zVsbz0sx/c.png[/img][/url]
-
-[url=https://postimg.cc/N592vWzy][img]https://i.postimg.cc/N592vWzy/d.png[/img][/url]
-
-[url=https://postimg.cc/zyTLVT58][img]https://i.postimg.cc/zyTLVT58/e.png[/img][/url]
-
-[url=https://postimg.cc/TyGKmhYm][img]https://i.postimg.cc/TyGKmhYm/f.png[/img][/url]
-
-[url=https://postimg.cc/d7BL9vLf][img]https://i.postimg.cc/d7BL9vLf/g.png[/img][/url]
-
-[url=https://postimg.cc/ZB507gN5][img]https://i.postimg.cc/ZB507gN5/h.png[/img][/url]
-
-[url=https://postimg.cc/k6YGkcNF][img]https://i.postimg.cc/k6YGkcNF/i.png[/img][/url]
-
-[url=https://postimg.cc/SYXRqMD0][img]https://i.postimg.cc/SYXRqMD0/j.png[/img][/url]
-
-[url=https://postimg.cc/F1170MmP][img]https://i.postimg.cc/F1170MmP/k.png[/img][/url]
-
-[url=https://postimg.cc/py7yCsLP][img]https://i.postimg.cc/py7yCsLP/l.png[/img][/url]
-
-[url=https://postimg.cc/4m9ySpYV][img]https://i.postimg.cc/4m9ySpYV/m.png[/img][/url]
-
-[url=https://postimg.cc/75rh8bzc][img]https://i.postimg.cc/75rh8bzc/n.png[/img][/url]
-
+<a href="https://postimg.cc/bdv23G09" target="_blank"><img src="https://i.postimg.cc/HWw4WXVR/a.png" alt="a"/></a><br/><br/>
+<a href="https://postimg.cc/rzYRb8QX" target="_blank"><img src="https://i.postimg.cc/xT9GX8mC/b.png" alt="b"/></a><br/><br/>
+<a href="https://postimg.cc/zVsbz0sx" target="_blank"><img src="https://i.postimg.cc/RZFcTYXx/c.png" alt="c"/></a><br/><br/>
+<a href="https://postimg.cc/N592vWzy" target="_blank"><img src="https://i.postimg.cc/15MGwS0K/d.png" alt="d"/></a><br/><br/>
+<a href="https://postimg.cc/zyTLVT58" target="_blank"><img src="https://i.postimg.cc/Z5M6sLMB/e.png" alt="e"/></a><br/><br/>
+<a href="https://postimg.cc/TyGKmhYm" target="_blank"><img src="https://i.postimg.cc/cJtwp8pD/f.png" alt="f"/></a><br/><br/>
+<a href="https://postimg.cc/d7BL9vLf" target="_blank"><img src="https://i.postimg.cc/pTNzRLxP/g.png" alt="g"/></a><br/><br/>
+<a href="https://postimg.cc/ZB507gN5" target="_blank"><img src="https://i.postimg.cc/xCKHCVTM/h.png" alt="h"/></a><br/><br/>
+<a href="https://postimg.cc/k6YGkcNF" target="_blank"><img src="https://i.postimg.cc/d3wCZNLX/i.png" alt="i"/></a><br/><br/>
+<a href="https://postimg.cc/SYXRqMD0" target="_blank"><img src="https://i.postimg.cc/j2c7H6fj/j.png" alt="j"/></a><br/><br/>
+<a href="https://postimg.cc/F1170MmP" target="_blank"><img src="https://i.postimg.cc/G3xGnRf1/k.png" alt="k"/></a><br/><br/>
+<a href="https://postimg.cc/py7yCsLP" target="_blank"><img src="https://i.postimg.cc/dtQdqXMZ/l.png" alt="l"/></a><br/><br/>
+<a href="https://postimg.cc/4m9ySpYV" target="_blank"><img src="https://i.postimg.cc/ZKfN0cZ7/m.png" alt="m"/></a><br/><br/>
+<a href="https://postimg.cc/75rh8bzc" target="_blank"><img src="https://i.postimg.cc/zGVghgGJ/n.png" alt="n"/></a><br/><br/>
 
 ## 🙏 Credits
 
