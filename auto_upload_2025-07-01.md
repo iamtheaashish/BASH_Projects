@@ -1,6 +1,6 @@
 # 📂 Bash Script: Auto-Upload File to Google Drive
 
-This Bash script automatically uploads a specific file (`Prompt.txt`) to Google Drive **whenever it's updated**, using `rclone` and `inotifywait`.
+This Bash script automatically uploads a specific file (`Prompt.txt`) to Google Drive **whenever it's updated**, using `rclone` and `inotifywait`. It can be easily adapted to upload log files or any other frequently updated files to the cloud in real time, useful for backups, monitoring, or syncing critical data.
 
 ## 🎯 Why I Built This
 
