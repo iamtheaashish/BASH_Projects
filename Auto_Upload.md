@@ -30,7 +30,6 @@ I regularly use a file on my desktop (`Prompt.txt`) to store useful prompts gene
 <a href="https://postimg.cc/zVsbz0sx" target="_blank"><img src="https://i.postimg.cc/RZFcTYXx/c.png" alt="c"/></a><br/><br/>
 <a href="https://postimg.cc/N592vWzy" target="_blank"><img src="https://i.postimg.cc/15MGwS0K/d.png" alt="d"/></a><br/><br/>
 <a href="https://postimg.cc/zyTLVT58" target="_blank"><img src="https://i.postimg.cc/Z5M6sLMB/e.png" alt="e"/></a><br/><br/>
-<a href="https://postimg.cc/TyGKmhYm" target="_blank"><img src="https://i.postimg.cc/cJtwp8pD/f.png" alt="f"/></a><br/><br/>
 <a href="https://postimg.cc/d7BL9vLf" target="_blank"><img src="https://i.postimg.cc/pTNzRLxP/g.png" alt="g"/></a><br/><br/>
 <a href="https://postimg.cc/ZB507gN5" target="_blank"><img src="https://i.postimg.cc/xCKHCVTM/h.png" alt="h"/></a><br/><br/>
 <a href="https://postimg.cc/k6YGkcNF" target="_blank"><img src="https://i.postimg.cc/d3wCZNLX/i.png" alt="i"/></a><br/><br/>
