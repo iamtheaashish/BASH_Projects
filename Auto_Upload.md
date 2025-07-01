@@ -25,6 +25,20 @@ I regularly use a file on my desktop (`Prompt.txt`) to store useful prompts gene
 - Systemd Unit: `~/.config/systemd/user/auto_upload.service`
 
 ## 📷 Screenshots
+<a href="https://postimg.cc/bdv23G09" target="_blank"><img src="https://i.postimg.cc/bdv23G09/a.png" alt="a"/></a><br/><br/>
+<a href="https://postimg.cc/rzYRb8QX" target="_blank"><img src="https://i.postimg.cc/rzYRb8QX/b.png" alt="b"/></a><br/><br/>
+<a href="https://postimg.cc/zVsbz0sx" target="_blank"><img src="https://i.postimg.cc/zVsbz0sx/c.png" alt="c"/></a><br/><br/>
+<a href="https://postimg.cc/N592vWzy" target="_blank"><img src="https://i.postimg.cc/N592vWzy/d.png" alt="d"/></a><br/><br/>
+<a href="https://postimg.cc/zyTLVT58" target="_blank"><img src="https://i.postimg.cc/zyTLVT58/e.png" alt="e"/></a><br/><br/>
+<a href="https://postimg.cc/TyGKmhYm" target="_blank"><img src="https://i.postimg.cc/TyGKmhYm/f.png" alt="f"/></a><br/><br/>
+<a href="https://postimg.cc/d7BL9vLf" target="_blank"><img src="https://i.postimg.cc/d7BL9vLf/g.png" alt="g"/></a><br/><br/>
+<a href="https://postimg.cc/ZB507gN5" target="_blank"><img src="https://i.postimg.cc/ZB507gN5/h.png" alt="h"/></a><br/><br/>
+<a href="https://postimg.cc/k6YGkcNF" target="_blank"><img src="https://i.postimg.cc/k6YGkcNF/i.png" alt="i"/></a><br/><br/>
+<a href="https://postimg.cc/SYXRqMD0" target="_blank"><img src="https://i.postimg.cc/SYXRqMD0/j.png" alt="j"/></a><br/><br/>
+<a href="https://postimg.cc/F1170MmP" target="_blank"><img src="https://i.postimg.cc/F1170MmP/k.png" alt="k"/></a><br/><br/>
+<a href="https://postimg.cc/py7yCsLP" target="_blank"><img src="https://i.postimg.cc/py7yCsLP/l.png" alt="l"/></a><br/><br/>
+<a href="https://postimg.cc/4m9ySpYV" target="_blank"><img src="https://i.postimg.cc/4m9ySpYV/m.png" alt="m"/></a><br/><br/>
+<a href="https://postimg.cc/75rh8bzc" target="_blank"><img src="https://i.postimg.cc/75rh8bzc/n.png" alt="n"/></a><br/><br/>
 
 ## 🙏 Credits
 
